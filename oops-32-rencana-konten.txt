@@ -3,3 +3,4 @@ RENCANA KONTEN OOPS-32
   * membuat mesh network untuk jaringan lokal
   * membuat gateway mesh network
   * membuat node (worker) mesh network
+- Membuat dashboard smarthome
