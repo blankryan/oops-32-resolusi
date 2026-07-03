@@ -2,5 +2,7 @@ RENCANA KONTEN OOPS-32
 - Membuat project smart home
   * membuat mesh network untuk jaringan lokal
   * membuat gateway mesh network
+   ^ membuat mqtt broker lokal dengan esp32s3
+   ^ membuat display menggunakan ILI9488 touchscreen
   * membuat node (worker) mesh network
 - Membuat dashboard smarthome
