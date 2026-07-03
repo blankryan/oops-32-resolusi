@@ -1,0 +1,5 @@
+RENCANA KONTEN OOPS-32
+- Membuat project smart home
+  * membuat mesh network untuk jaringan lokal
+  * membuat gateway mesh network
+  * membuat node (worker) mesh network
