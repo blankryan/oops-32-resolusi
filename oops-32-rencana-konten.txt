@@ -7,3 +7,4 @@ RENCANA KONTEN OOPS-32
   * membuat node (worker) mesh network
    ^ membuat sensor suhu dan kelembaban
 - Membuat dashboard smarthome
+- Membuat materi ESP-IDF framework
